@@ -1,6 +1,6 @@
 # Höfundur: Milos Petrovic
 # Dagsetning: 28.08.2023
-# Verkefni: Forritun 1A - V3_1_B_D1
+# Verkefni: Forritun 1A - V3_2_A
 # Athugasemdir: Ekki athugasemdir
 # Gast þú leyst þetta verkefni án hjálpar (upptöku eða
 # annars aðila: Já
